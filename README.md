@@ -150,3 +150,7 @@ It may be beneficial to start with a simpler system (e.g., 1D instead of 2D, or 
 ### Sensitivity Analysis
 Perform a sensitivity analysis by varying one parameter at a time while keeping the others constant. This will help you understand how each parameter influences the stability of the solution.
 
+Example
+![PNG](https://github.com/wentaogong111/Cahn_Hilliard_High_order/blob/main/code/cahn-hilliard-c0-0.5.png)
+![GIF](https://github.com/wentaogong111/Cahn_Hilliard_High_order/blob/main/code/cahn-hilliard_high_order2.gif)
+
